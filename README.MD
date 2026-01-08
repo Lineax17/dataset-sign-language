@@ -11,3 +11,11 @@ For the purpose of our projekt we took the kaggle dataset and diversified the da
 ## License
 
 The Projekt retains its original GPL V2 License
+
+## Credit
+
+Credits to my Team-Members:
+
+https://github.com/Dewin154
+https://github.com/NickDastley
+https://github.com/radhikaG03
